@@ -1,1 +1,1 @@
-console.log('ветка')
+console.log('веткf')
